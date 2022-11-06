@@ -14,6 +14,6 @@
   >D:\\Projects\\LogParsing ^(.\*?(\bError\b)[^$]*)\$  
 
   ### Пример работы программы  
-  ![Пример](https://github.com/1i10/LogParsing/blob/master/example.gif)  
+  ![Пример](https://github.com/1i10/LogParsing/blob/main/example.gif)  
    
 
